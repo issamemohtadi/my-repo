@@ -1,6 +1,6 @@
 {
-    "name": "Arabic providers repository",
-    "description": "Cloudstream Arabic Plugin Repository",
+    "name": "providers repository",
+    "description": "Cloudstream Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
       "https://codeberg.org/issamemohtadi/Arabic/raw/branch/builds/plugins.json"
