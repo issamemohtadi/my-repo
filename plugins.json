@@ -38,6 +38,26 @@
         "description": "Series porn (use VPN if links not working)",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Paradisehill.cs3",
         "name": "Paradisehill"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xvideos.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 15389,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed",
+            "Jace"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "XvideosProvider",
+        "description": "The best free NSFW site",
+        "url": "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/builds/XvideosProvider.cs3",
+        "name": "XvideosProvider"
     }
 
 
