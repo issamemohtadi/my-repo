@@ -5,4 +5,26 @@
     "pluginLists": [
       "https://codeberg.org/issamemohtadi/Arabic/raw/branch/builds/plugins.json"
     ]
-  }
+  
+}
+
+
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 11176,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sora"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "Paradisehill",
+        "description": "Series porn (use VPN if links not working)",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Paradisehill.cs3",
+        "name": "Paradisehill"
+    }
